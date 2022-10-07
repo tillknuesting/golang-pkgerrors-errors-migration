@@ -1,0 +1,1 @@
+# golang-pkgerrors-errors-migration
